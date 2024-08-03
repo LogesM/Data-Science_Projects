@@ -40,7 +40,14 @@
    * The collected bus details data was transformed into pandas dataframes. Before that, a new database and tables were created using the MySQL connector. With the help of MySQL, the data was inserted into the respective tables. The database could be accessed and managed in the MySQL environment.
 
 ## web app - streamlit:
-   * With the help of Streamlit, you can create an interactive application similar to RedBus by designing a user-friendly interface that allows users to search for bus routes, view available buses, and get details like departure times and prices
+   * With the help of Streamlit, you can create an interactive application similar to RedBus by designing a user-friendly interface that allows users to search for bus routes, view available buses, and get details like departure times and prices.
+
+## RESULTS
+* Successfully scrape a minimum of 10 Government State Bus Transport data from Redbus website using Selenium. Also include the private bus information for the selected routes.
+* Store the data in a structured SQL database.
+* Develop an interactive Streamlit application for data filtering.
+* Ensure the application is user-friendly and efficient.
+
 
 
 
