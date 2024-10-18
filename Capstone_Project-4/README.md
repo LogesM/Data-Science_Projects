@@ -1,5 +1,5 @@
 # Microsoft : Classifying Cybersecurity Incidents with Machine Learning
-## TECHNOLOGIES
+## TECHNOLOGIES USED
 1. Data Preprocessing and Feature Engineering
 2. Machine Learning Classification Techniques
 3. Model Evaluation Metrics (Macro-F1 Score, Precision, Recall)
