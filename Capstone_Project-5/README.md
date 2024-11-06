@@ -4,6 +4,11 @@
 
 </div>
 
+## Domain
+Food Service Industry
+
+---
+
 ## Technologies Used
 1. Data cleaning and preprocessing
 2. Exploratory data analysis (EDA)
@@ -11,6 +16,7 @@
 4. Predictive modeling
 5. Business decision making
 
+---
 
 ## 📈 Problem Statement
 
